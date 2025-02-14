@@ -1,17 +1,3 @@
-
-docker.1ms.run/langgenius/dify-api:0.15.3
-docker.1ms.run/langgenius/dify-api:0.15.3
-docker.1ms.run/langgenius/dify-web:0.15.3
-docker.1ms.run/postgres:15-alpine
-docker.1ms.run/redis:6-alpine
-docker.1ms.run/langgenius/dify-sandbox:0.2.10
-docker.1ms.run/ubuntu/squid:latest
-docker.1ms.run/certbot/certbot
-docker.1ms.run/nginx:latest
-docker.1ms.run/semitechnologies/weaviate:1.19.0
-docker.1ms.run/langgenius/qdrant:v1.7.3
-docker.1ms.run/pgvector/pgvector:pg16
-docker.1ms.run/tensorchord/pgvecto-rs:pg16-v0.3.0
 docker.1ms.run/ghcr.io/chroma-core/chroma:0.5.20
 docker.1ms.run/quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
 docker.1ms.run/container-registry.oracle.com/database/free:latest
