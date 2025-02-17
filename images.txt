@@ -1,12 +1,1 @@
-docker.1ms.run/chromadb/chroma:0.5.20
-#docker.1ms.run/quay.io/oceanbase/oceanbase-ce:4.3.3.0-100000142024101215
-docker.1ms.run/container-registry.oracle.com/database/free:latest
-docker.1ms.run/quay.io/coreos/etcd:v3.5.5
-docker.1ms.run/minio/minio:RELEASE.2023-03-20T20-16-18Z
-docker.1ms.run/milvusdb/milvus:v2.5.0-beta
-docker.1ms.run/opensearchproject/opensearch:latest
-docker.1ms.run/opensearchproject/opensearch-dashboards:latest
-docker.1ms.run/myscale/myscaledb:1.6.4
-docker.1ms.run/docker.elastic.co/elasticsearch/elasticsearch:8.14.3
-docker.1ms.run/docker.elastic.co/kibana/kibana:8.14.3
-docker.1ms.run/downloads.unstructured.io/unstructured-io/unstructured-api:latest
+ollama/ollama:latest
