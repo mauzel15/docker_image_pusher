@@ -1,2 +1,2 @@
-ghcr.io/chaosblade-io/chaosblade-operator:1.7.4
-ghcr.io/chaosblade-io/chaosblade-tool:1.7.4
+ghcr.io/chaosblade-io/chaosblade-operator:1.7.3
+ghcr.io/chaosblade-io/chaosblade-tool:1.7.3
