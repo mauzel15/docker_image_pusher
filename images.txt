@@ -1,1 +1,1 @@
-ollama/ollama:latest
+chaosbladeio/chaosblade-box:1.0.2
