@@ -1,2 +1,1 @@
-ghcr.io/chaosblade-io/chaosblade-operator:1.7.3
-ghcr.io/chaosblade-io/chaosblade-tool:1.7.3
+docker.io/k8spacket/k8spacket:2.1.5
