@@ -1,1 +1,1 @@
-docker.io/k8spacket/k8spacket:2.1.5
+chaosbladeio/chaosblade-agent:1.0.2
