@@ -1,1 +1,1 @@
-chaosbladeio/chaosblade-agent:1.0.2
+harisekhon/hbase:latest
