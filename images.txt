@@ -1,1 +1,1 @@
-harisekhon/hbase:latest
+hbase:latest
