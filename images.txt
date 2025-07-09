@@ -1,1 +1,1 @@
-mobz/elasticsearch-head:7
+neo4j:5.13.0-community
