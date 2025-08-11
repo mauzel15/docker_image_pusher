@@ -1,1 +1,1 @@
-louislam/uptime-kuma:1
+justb4/jmeter:latest
