@@ -1,1 +1,1 @@
-justb4/jmeter:latest
+tiredofit/postfix:latest
