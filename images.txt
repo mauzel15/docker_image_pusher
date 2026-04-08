@@ -1,1 +1,1 @@
-tiredofit/postfix:latest
+catatnight/postfix:latest
