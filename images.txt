@@ -1,3 +1,4 @@
 registry.cn-hangzhou.aliyuncs.com/workerone/livenessprobe:v2.18.0
 registry.cn-hangzhou.aliyuncs.com/workerone/csi-node-driver-registrar:v2.16.0
 registry.cn-hangzhou.aliyuncs.com/workerone/smbplugin:v1.20.1
+
