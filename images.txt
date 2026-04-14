@@ -1,2 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/workerone/csi-node-driver-registrar:v2.16.0
-
+registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.16.0
