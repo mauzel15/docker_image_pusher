@@ -1,1 +1,1 @@
-rockchin/langbot:latest
+langgenius/dify-plugin-daemon:latest
