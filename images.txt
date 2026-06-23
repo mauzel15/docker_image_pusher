@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:latest
+budtmo/docker-android:emulator_11.0
