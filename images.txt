@@ -1,1 +1,1 @@
-nanami7777777/gitlab-code-reader-mcp:latest
+docker.1ms.run/zereight050/gitlab-mcp:2.1.51
