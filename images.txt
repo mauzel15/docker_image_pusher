@@ -1,1 +1,1 @@
-gitlab-code-reader-mcp:latest
+ghcr.io/nanami7777777/gitlab-code-reader-mcp:latest
