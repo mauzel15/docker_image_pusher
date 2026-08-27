@@ -1,1 +1,1 @@
-budtmo/docker-android:emulator_11.0
+gitlab-code-reader-mcp:latest
