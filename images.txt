@@ -1,1 +1,1 @@
-docker.1ms.run/zereight050/gitlab-mcp:2.1.51
+ghcr.m.daocloud.io/hkuds/lightrag:latest
