@@ -1,1 +1,1 @@
-ghcr.m.daocloud.io/hkuds/lightrag:latest
+ghcr.nju.edu.cn/anomalyco/opencode:latest
