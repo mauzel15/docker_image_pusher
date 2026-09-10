@@ -1,1 +1,1 @@
-ghcr.nju.edu.cn/anomalyco/opencode:latest
+ghcr.io/anomalyco/opencode:latest
